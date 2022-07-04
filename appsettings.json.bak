@@ -1,5 +1,4 @@
 {
-	"Urls": "http://0.0.0.0:8500;https://0.0.0.0:8501",
   "Serilog": {
     "Using": [],
     "Enrich": [ "FromLogContext", "WithExceptionDetails", "WithMachineName", "WithProcessId", "WithThreadId" ],
